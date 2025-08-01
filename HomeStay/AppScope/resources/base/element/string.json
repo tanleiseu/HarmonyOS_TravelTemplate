@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "LifeBeautyTemplate"
+    },
+    {
+      "name": "agcit_huawei_life_beauty",
+      "value": "1.0.1"
+    },
+    {
+      "name": "agcittype_huawei_life_beauty",
+      "value": "industryTemplate"
+    }
+  ]
+}

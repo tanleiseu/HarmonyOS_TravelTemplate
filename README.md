@@ -1,6 +1,4 @@
-<a href="https://developer.huawei.com/consumer/cn/market/prod-list?origin=template" target="_blank">
-  <img src="https://i-blog.csdnimg.cn/direct/3e26fcd0feae4e648f0deb6c9bc47781.png" alt="华为官方-鸿蒙生态市场" />
-</a>
+![华为官方-鸿蒙生态市场](Pictures%E5%8D%8E%E4%B8%BA%E5%AE%98%E6%96%B9-%E9%B8%BF%E8%92%99%E7%94%9F%E6%80%81%E5%B8%82%E5%9C%BA.png)
 
 <div align="center">
   <span style="font-size: 20px;">
@@ -19,4 +17,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 旅游类（综合酒店）行业模板 | 旅游类（民宿住宿）行业模板 | 旅游类（景区旅游）行业模板 |
 |:---:|:---:|:---:|
-| ![旅游类（综合酒店）行业模板](https://i-blog.csdnimg.cn/img_convert/73d69281d9a8f118368628bc98aacc7d.png)| ![旅游类（民宿住宿）行业模板](https://i-blog.csdnimg.cn/img_convert/d0ffebb7324313fa87d998f74a7dd888.png) | ![旅游类（景区旅游）行业模板](https://i-blog.csdnimg.cn/img_convert/186c1c3e07f56d4c5a542d27d8758f54.png) |
+| ![输入图片说明](FullServiceHotel/screenshots/%E9%A6%96%E9%A1%B5.png)| ![输入图片说明](HomeStay/screenshots/%E9%A6%96%E9%A1%B5.jpg) | ![输入图片说明](TouristAttraction/screenshots/devices/home.jpeg) |

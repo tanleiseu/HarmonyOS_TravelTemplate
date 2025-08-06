@@ -17,4 +17,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 旅游类（综合酒店）行业模板 | 旅游类（民宿住宿）行业模板 | 旅游类（景区旅游）行业模板 |
 |:---:|:---:|:---:|
-| ![输入图片说明](FullServiceHotel/screenshots/%E9%A6%96%E9%A1%B5.png)| ![输入图片说明](HomeStay/screenshots/%E9%A6%96%E9%A1%B5.jpg) | ![输入图片说明](TouristAttraction/screenshots/devices/home.jpeg) |
+| ![输入图片说明](%E6%97%85%E6%B8%B8%EF%BC%88%E7%BB%BC%E5%90%88%E9%85%92%E5%BA%97%EF%BC%89%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| ![输入图片说明](%E6%B0%91%E5%AE%BF%E4%BD%8F%E5%AE%BF%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png) |![输入图片说明](%E6%99%AF%E5%8C%BA%E6%97%85%E6%B8%B8%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)|

@@ -1,4 +1,4 @@
-![华为官方-鸿蒙生态市场](Pictures%E5%8D%8E%E4%B8%BA%E5%AE%98%E6%96%B9-%E9%B8%BF%E8%92%99%E7%94%9F%E6%80%81%E5%B8%82%E5%9C%BA.png)
+![输入图片说明](%E5%8D%8E%E4%B8%BA%E5%AE%98%E6%96%B9-%E9%B8%BF%E8%92%99%E7%94%9F%E6%80%81%E5%B8%82%E5%9C%BA.png)
 
 <div align="center">
   <span style="font-size: 20px;">
